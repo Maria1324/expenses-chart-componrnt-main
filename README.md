@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/Maria1324/expenses-chart-componrnt-main)
-- Live Site URL: [](https://maria1324.github.io/expenses-chart-componrnt-main/)
+- Solution URL: [https://github.com/Maria1324](https://github.com/Maria1324/expenses-chart-componrnt-main)
+- Live Site URL: [https://maria1324.github.io](https://maria1324.github.io/expenses-chart-componrnt-main/)
 
 ## My process
 
