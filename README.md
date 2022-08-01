@@ -30,12 +30,12 @@ Users should be able to:
 
 ### Screenshot
 
-![https://github.com/Maria1324/expenses-chart-componrnt-main/blob/main/images/Screenshot_1.png]
+![](https://github.com/Maria1324/expenses-chart-componrnt-main/blob/main/images/Screenshot_1.png)
 
 ### Links
 
-- Solution URL: [https://github.com/Maria1324/expenses-chart-componrnt-main]
-- Live Site URL: [https://maria1324.github.io/expenses-chart-componrnt-main/]
+- Solution URL: [](https://github.com/Maria1324/expenses-chart-componrnt-main)
+- Live Site URL: [](https://maria1324.github.io/expenses-chart-componrnt-main/)
 
 ## My process
 
