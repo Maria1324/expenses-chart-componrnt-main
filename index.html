@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title>Frontend Mentor | Expenses chart component</title>
+
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+  <style>
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+  </style>
+</head>
+<body>
+<div class="container">
+  <div class="content">
+    <section class="first_section">
+      <div class="first_content">
+      <p class="title">My balance</p>
+      <h2 class="balance">$921.48</h2>
+      </div>
+      <div class="logo_img">
+        <svg  width="72" height="48" viewBox="0 0 72 48" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><circle fill="#382314" cx="48" cy="24" r="24"/><circle stroke="#FFF" stroke-width="2" cx="24" cy="24" r="23"/></g></svg>
+      </div>
+    </section>
+    <div class="indent">
+      
+    </div>
+    <section class="second_section">
+      <div class="section_content">
+      <h5 class="spending">Spending - Last 7 days</h5>
+      <div class="chart">
+        <canvas id="myChart" width="400" height="180"></canvas>       
+      </div>
+      <hr class="hr">
+      <div class="foter">
+        <p class="fotertext">Total this month</p>
+        
+        <div class="footerflex">
+        <h3 class="price">$478.33</h3>
+      
+      <div class="right">
+        <p class="fotertext bold">+2.4%</p>
+        <p class="fotertext">from last month</p>
+      </div>
+    </div>
+      </div>
+      </div>
+      
+
+
+
+  
+  
+
+
+    </section>
+  </div>
+</div>
+
+
+  
+  
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#">Your Name Here</a>.
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.8.2/chart.js"></script>
+<script src="main.js"></script>
+</body>
+</html>
